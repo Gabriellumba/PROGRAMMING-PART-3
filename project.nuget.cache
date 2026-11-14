@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TT6k6vZan+4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Downloads\\PROGRAMMING PART 3 _ST10499215_GABRIEL_LUMBA (3)\\PROGRAMMING PART 2 _ST10499215_GABRIEL_LUMBA\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.15\\microsoft.extensions.dependencyinjection.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.15\\microsoft.extensions.logging.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\mysqlconnector\\3.0.0\\mysqlconnector.3.0.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.15\\system.diagnostics.diagnosticsource.10.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
